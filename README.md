@@ -6,7 +6,7 @@ To test if your code works: `php likes.test.php`.
 
 ## Instructions
 
-Create a function `getLikes` which receives an array of names, and returns:
+Create a function `likes` which receives an array of names, and returns:
 
 - [] => "Be the first to like this".
 - ["Cartman"] => "Cartman likes this".
